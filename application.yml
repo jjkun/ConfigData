@@ -10,7 +10,7 @@ words: ran,knew,had,saw,bought
 
 ---
 spring:
-  profiles: article
+  profiles: articule
 words: a,the
 
 ---
